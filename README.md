@@ -15,3 +15,12 @@ data class
 [https://docs.google.com/presentation/d/1HdI0k1iaBJgGA6mnxCaiieNTcTBZg8Y3l11wVvv3ooo/edit#slide=id.g3c49079bdb_0_33]
 * **CHEATSHEET**
 [http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf]
+
+* an update on my laptop
+**git status**
+**git add .**
+**git status**
+**git commit -m **
+**git push orgin master**
+**git pull**
+
